@@ -4,7 +4,7 @@ How to Use:
 
 1. Run Remote Play on your PC, and connect to your PS4 or PS5
 2. Start the tower you want to complete
-3. Run the script. The script clicks continue after each match is done
+3. Run the script. The script clicks continue (by hitting Enter) after each match is done
 
 A few notes:
 
